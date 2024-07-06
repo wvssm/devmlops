@@ -1,3 +1,5 @@
 **/.ipynb_checkpoints
 **/.gradle
 **/iris_model.pkl
+**/.DS_Store
+**/mlops_env
